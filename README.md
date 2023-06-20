@@ -1,5 +1,5 @@
 # Donating-Hand
-Project Review: DonatingHand - Payment Gateway Integration using HTML, CSS, and JavaScript
+ DonatingHand - Payment Gateway Integration using HTML, CSS, and JavaScript
 Introduction
 DonatingHand is an impressive project that focuses on payment gateway integration using HTML, CSS, and JavaScript. This project utilizes the popular payment gateway provider, Razorpay, to enable seamless and secure online donations. With its clean and intuitive interface, DonatingHand simplifies the process of accepting donations for charitable causes.
 
@@ -24,5 +24,3 @@ Upon successful donation, DonatingHand automatically sends a confirmation email 
 
 Conclusion
 DonatingHand is a remarkable project that effectively demonstrates the integration of a payment gateway using HTML, CSS, and JavaScript. The seamless implementation of the Razorpay payment gateway, along with its intuitive user interface and essential features, makes this project an excellent choice for organizations seeking an efficient and secure solution for accepting online donations.
-
-By sharing your DonatingHand project on GitHub, you are not only showcasing your technical skills but also providing a valuable resource for others interested in payment gateway integration. Well done on developing a practical and user-friendly solution for enabling charitable contributions!
